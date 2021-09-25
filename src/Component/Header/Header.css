@@ -1,0 +1,19 @@
+.header-photo img{
+    height: 50px;
+}
+.header-photo{
+    text-align: center;
+}
+
+.navbar ul a{
+    text-decoration: none;
+    padding: 15px;
+    color: white;
+    font-size: 19px;
+}
+.navbar{
+    background-color: black;
+}
+.navbar ul a:hover{
+    background-color: lightgray;
+}

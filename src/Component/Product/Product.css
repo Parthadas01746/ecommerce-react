@@ -1,0 +1,11 @@
+.products{
+    display: flex;
+}
+.btn{
+    background-color: orange;
+    padding: 10px;
+    border: 0;
+    border-radius: 8px;
+    width: 150px;
+    font-size: 18px;
+}
